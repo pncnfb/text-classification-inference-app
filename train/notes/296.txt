@@ -1,0 +1,32 @@
+
+
+
+
+
+<B>INDICATION FOR STUDY: </B> Chest pains, CAD, and cardiomyopathy.
+
+<B>MEDICATIONS:</B>  Humulin, lisinopril, furosemide, spironolactone, omeprazole, carvedilol, pravastatin, aspirin, hydrocodone, and diazepam.
+
+<B>BASELINE EKG: </B> Sinus rhythm at 71 beats per minute, left anterior fascicular block, LVBB.
+
+<B>PERSANTINE RESULTS: </B> Heart rate increased from 70 to 72.  Blood pressure decreased from 160/84 to 130/78.  The patient felt slightly dizziness, but there was no chest pain or EKG changes.
+
+<B>NUCLEAR PROTOCOL: </B> Same day rest/stress protocol was utilized with 12 mCi for the rest dose and 33 mCi for the stress test.  53 mg of Persantine were used, reversed with 125 mg of aminophylline.
+
+<B>NUCLEAR RESULTS:</B>
+1.  Nuclear perfusion imaging, review of the raw projection data reveals adequate image acquisition.  The resting images are normal.  The post Persantine images show mildly decreased uptake in the septum.  The sum score is 0.
+2.  The Gated SPECT shows enlarged heart with a preserved EF of 52%.
+
+<B>IMPRESSION:</B>
+1.  Mild septal ischemia.  Likely due to the left bundle-branch block.
+2.  Mild cardiomyopathy, EF of 52%.
+3.  Mild hypertension at 160/84.
+4.  Left bundle-branch block.
+
+
+
+
+
+
+
+

@@ -1,0 +1,46 @@
+[project]
+name = "nlp_inference_application"
+version = "0.0.1"
+authors = [
+    { name = "Fabio Pancino", email = "pancinofabio@gmail.com" },
+]
+description = "inference_application"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = [
+    "fastapi[standard]",
+    "fastapi==0.112.1",
+    "uvicorn==0.30.6",
+    "pydantic==2.9.*",
+    "httpx==0.27.0",
+    "google-cloud-secret-manager==2.20.2",
+    "pandas-gbq==0.23.2",
+    "mistralai==1.5.*",
+    "joblib",
+    "scikit-learn",
+    "google-cloud-aiplatform==1.75.*",
+    "llama-index==0.12.*",
+    "llama-index-llms-gemini==0.4.2",
+    "llama-index-llms-vertex==0.4.2"
+]
+
+[project.optional-dependencies]
+dev = [
+    "mypy",
+    "pylint",
+    "types-pytz",
+    "types-requests",
+]
+
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools]
+packages = [
+    "src",
+    "src.routes",
+    "src.models",
+    "src.agents",
+    "src.controller"
+]
